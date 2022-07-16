@@ -1,5 +1,4 @@
 - [Blog](https://blog.2no.me/)
-- [Twitter](https://twitter.com/wakuworks/)
 - [Bitbucket](https://bitbucket.org/2no/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2no&hide=html)
